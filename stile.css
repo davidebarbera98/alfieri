@@ -1,0 +1,104 @@
+html
+{
+	height: 100%
+}
+
+body
+{
+	height: 100%
+}
+
+
+.titoli-nav 
+{
+	font-size: 1.3em
+}
+
+.titolo-sito
+{
+	font-size: 1.5em
+}
+
+#div-padre
+{
+	height: 100%;
+}
+
+#div-news
+{
+	height: 100%;
+    width: 50%;
+    float: left;
+    background-color: #fff4f4;
+    overflow-y: auto;
+}
+
+#div-eventi
+{
+	height: 100%;
+    width: 50%;
+    float: right;
+    background-color: gainsboro;
+    overflow-y: auto;
+}
+
+.titoli-home
+{
+	text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.quadranti
+{
+	margin: auto;
+    margin-bottom: 4%;
+}
+
+#logo
+{
+	height: 3em
+}
+
+#accordionExample
+{
+	margin: 3%
+}
+
+.article-title
+{
+	text-align: center;
+	margin: 2%;
+	font-size: 4em
+}
+
+.video
+{
+	margin: 2% auto;
+	display: block;
+}
+
+.article-p
+{
+    margin: 3%;
+    text-align: center;
+    background-color: #252525;
+    color: white;
+    font-weight: 600;
+}
+
+li {list-style: none;}
+ul {list-style-type:none;}
+
+
+.info
+{
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+.info-img
+{
+	margin: auto;
+	display: block;
+}
